@@ -1,0 +1,59 @@
+{
+  "persona": {
+    "Athlete": 0,
+    "Average": 1,
+    "Social Butterfly": 2,
+    "Struggling": 3,
+    "Topper": 4,
+    "Working Student": 5
+  },
+  "major": {
+    "Arts": 0,
+    "Biology": 1,
+    "Business": 2,
+    "Computer Science": 3,
+    "Engineering": 4,
+    "Nursing": 5,
+    "Psychology": 6
+  },
+  "housing_type": {
+    "Apartment": 0,
+    "Dorm": 1,
+    "Family Home": 2
+  },
+  "relationship_status": {
+    "In Relationship": 0,
+    "Married": 1,
+    "Single": 2
+  },
+  "transportation_mode": {
+    "Bike": 0,
+    "Bus": 1,
+    "Car": 2,
+    "Walk": 3
+  },
+  "part_time_job": {
+    "No": 0,
+    "Yes": 1
+  },
+  "study_location": {
+    "Cafe": 0,
+    "Dorm Room": 1,
+    "Home": 2,
+    "Library": 3
+  },
+  "club_membership": {
+    "No": 0,
+    "Yes": 1
+  },
+  "diet_type": {
+    "Balanced": 0,
+    "Fast Food": 1,
+    "High Protein": 2,
+    "Vegetarian": 3
+  },
+  "scholarship_status": {
+    "No": 0,
+    "Yes": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "numeric": [
+    "age",
+    "sleep_hours",
+    "study_hours",
+    "exercise_days",
+    "social_hours",
+    "screen_time_hours",
+    "commute_minutes",
+    "part_time_hours",
+    "caffeine_intake",
+    "mindfulness_minutes",
+    "financial_stress_score",
+    "academic_pressure_score",
+    "family_support_score",
+    "peer_support_score",
+    "self_efficacy_score",
+    "weekly_meals",
+    "home_noise_score",
+    "internet_speed",
+    "assignment_load",
+    "class_attendance"
+  ],
+  "categorical": [
+    "persona",
+    "major",
+    "housing_type",
+    "relationship_status",
+    "transportation_mode",
+    "part_time_job",
+    "study_location",
+    "club_membership",
+    "diet_type",
+    "scholarship_status"
+  ]
+}
